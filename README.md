@@ -8,7 +8,8 @@
 ---
 
 ## 🚀 Projects  
-- 🎮 [**TicTacToe**](https://tic-tac-valkyrie.netlify.app/)  
+- 🎮 [**TicTacToe**](https://tic-tac-valkyrie.netlify.app/)
+- 🌌 [**SkyBooks**](https://blueverse.netlify.app/)
 
 ---
 
