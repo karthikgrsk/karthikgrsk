@@ -5,6 +5,7 @@ Bsc. Mathematics Graduate
 -🌱 Exploring DSA and project development.
 <br>
 -Projects
+<br>
 TicTacToe - (https://tic-tac-valkyrie.netlify.app/)
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karthik-grsk/)
