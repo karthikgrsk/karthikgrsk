@@ -5,13 +5,6 @@
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">  
 
----
-
-## 🚀 Projects  
-- 🎮 [**TicTacToe**](https://tic-tac-valkyrie.netlify.app/)
-- 🌌 [**SkyBooks**](https://blueverse.netlify.app/)
-
----
 
 ## 🌐 Social Presence  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karthik-grsk/)  
