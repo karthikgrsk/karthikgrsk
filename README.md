@@ -43,4 +43,5 @@
 ---
 
 ## 📊 Competitive Programming
-[![LeetCode Stats](https://leetcard.jacoblin.cool/karthikgrsk?theme=dark&font=M%20PLUS%201&ext=contest)]()  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/karthikgrsk?theme=dark&font=M%20PLUS%201&ext=contest)](https://leetcode.com/u/karthikgrsk/)
+
