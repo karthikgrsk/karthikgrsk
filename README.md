@@ -11,6 +11,15 @@
 
 ---
 
+## Projects
+- **Quiz Application** | Java, Spring Boot, MySQL  
+  https://github.com/your-username/quiz-application
+
+- **Movie Review Application** | Java, Spring Boot, MongoDB  
+  https://github.com/karthikgrsk/frontend-movies
+
+
+
 ## 💻 I Code In  
 <p align="left">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
@@ -33,5 +42,5 @@
 
 ---
 
-## 📊 Competitive Programming  
+## 📊 Competitive Programming
 [![LeetCode Stats](https://leetcard.jacoblin.cool/karthikgrsk?theme=dark&font=M%20PLUS%201&ext=contest)]()  
