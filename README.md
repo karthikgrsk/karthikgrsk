@@ -1,6 +1,10 @@
 # Hi there 👋 I'm Karthik  
 
-🌱 Exploring **DSA** and **Project Development**  
+💻 Passionate about **Backend Development**, **Problem Solving**, and building scalable applications using **Java** and **Spring Boot**.
+
+🚀 Exploring **Software Development**, **DSA**, **System Design**, and **Full Stack Project Development**.
+
+🌱 Interested in developing real-world applications and continuously improving coding and problem-solving skills.
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">  
 
