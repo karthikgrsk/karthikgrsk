@@ -14,7 +14,7 @@
 ### 🚀 Vercel Mini Clone  
 **Tech Stack:** Java, Spring Boot, React, AWS S3, Docker  
 
-- Built a mini deployment platform inspired by :contentReference[oaicite:0]{index=0} for hosting frontend applications.  
+- Built a mini deployment platform inspired by vercel,netlify for hosting frontend applications.  
 - Implemented project upload, automated build process, and static file deployment features.  
 - Developed REST APIs using Spring Boot for deployment tracking and file management.  
 - Integrated AWS S3 for storing and serving deployed application files.
