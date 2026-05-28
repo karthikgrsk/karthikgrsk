@@ -1,4 +1,4 @@
-# Hey there,I'm Karthik 👋 
+# Hey there ,I'm Karthik 👋 
 
 💻 Passionate about **Backend Development**, **Problem Solving**, and building scalable applications using **Java** and **Spring Boot**.
 
