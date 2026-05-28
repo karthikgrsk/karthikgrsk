@@ -17,9 +17,7 @@
 - Built a mini deployment platform inspired by :contentReference[oaicite:0]{index=0} for hosting frontend applications.  
 - Implemented project upload, automated build process, and static file deployment features.  
 - Developed REST APIs using Spring Boot for deployment tracking and file management.  
-- Integrated AWS S3 for storing and serving deployed application files.  
-- Created a React-based dashboard to manage deployments and monitor build status.  
-- Used Docker for containerized build execution and deployment workflow.  
+- Integrated AWS S3 for storing and serving deployed application files.
 
 🔗 GitHub: https://github.com/your-username/vercel-mini-clone
 
