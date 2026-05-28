@@ -11,8 +11,17 @@
 ---
 
 ## Projects
-Vercel Mini Clone | Java, Spring Boot, React, AWS S3, Docker
-Built a mini deployment platform inspired by Vercel with features like project upload, automated build process, static file hosting, and live deployment preview. Implemented backend APIs for file handling, deployment tracking, and build management using Spring Boot. Integrated AWS S3 for storing deployed files and React for the frontend dashboard.
+### 🚀 Vercel Mini Clone  
+**Tech Stack:** Java, Spring Boot, React, AWS S3, Docker  
+
+- Built a mini deployment platform inspired by :contentReference[oaicite:0]{index=0} for hosting frontend applications.  
+- Implemented project upload, automated build process, and static file deployment features.  
+- Developed REST APIs using Spring Boot for deployment tracking and file management.  
+- Integrated AWS S3 for storing and serving deployed application files.  
+- Created a React-based dashboard to manage deployments and monitor build status.  
+- Used Docker for containerized build execution and deployment workflow.  
+
+🔗 GitHub: https://github.com/your-username/vercel-mini-clone
 
 
 
