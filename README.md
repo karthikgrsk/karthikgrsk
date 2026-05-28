@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Karthik  
 
-🎓 **B.Sc. Mathematics Graduate**  
 🌱 Exploring **DSA** and **Project Development**  
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">  
@@ -12,11 +11,8 @@
 ---
 
 ## Projects
-- **Quiz Application** | Java, Spring Boot, MySQL  
-  https://github.com/your-username/quiz-application
-
-- **Movie Review Application** | Java, Spring Boot, MongoDB  
-  https://github.com/karthikgrsk/frontend-movies
+Vercel Mini Clone | Java, Spring Boot, React, AWS S3, Docker
+Built a mini deployment platform inspired by Vercel with features like project upload, automated build process, static file hosting, and live deployment preview. Implemented backend APIs for file handling, deployment tracking, and build management using Spring Boot. Integrated AWS S3 for storing deployed files and React for the frontend dashboard.
 
 
 
